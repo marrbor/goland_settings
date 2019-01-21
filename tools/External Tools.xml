@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="gosavehook" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/cocodayo/document/GAE/gosavehook.sh" />
+      <option name="PARAMETERS" value="$FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/cocodayo/document/GAE" />
+    </exec>
+  </tool>
+  <tool name="run" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="make" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$Projectpath$" />
+    </exec>
+  </tool>
+</toolSet>

@@ -5,6 +5,7 @@
         <option value="$USER_HOME$/tools/google-cloud-sdk/platform/google_appengine/goroot-1.8" />
         <option value="/usr/local/go" />
         <option value="/usr/local/go1.11" />
+        <option value="/usr/local/go1.11.4" />
       </set>
     </sdk-path>
   </component>

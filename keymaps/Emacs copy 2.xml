@@ -1,0 +1,22 @@
+<keymap version="1" name="Emacs copy 2" parent="Emacs">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="escape" second-keystroke="shift colon" />
+  </action>
+  <action id="BaseOnThisFunction" />
+  <action id="CollapseSelection" />
+  <action id="EditorBackSpace">
+    <keyboard-shortcut first-keystroke="back_space" />
+    <keyboard-shortcut first-keystroke="shift back_space" />
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="EditorChooseLookupItemDot" />
+  <action id="GoTypeHierarchyPopupMenu.BaseOnThisType" />
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift ctrl alt n" />
+    <keyboard-shortcut first-keystroke="ctrl period" />
+  </action>
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
+</keymap>

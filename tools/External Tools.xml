@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="$USER_HOME$/cocodayo/document/GAE/gosavehook.sh" />
       <option name="PARAMETERS" value="$FilePath$" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/cocodayo/document/GAE" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/matsumoto/cocodayo/document/GAE" />
     </exec>
   </tool>
   <tool name="run" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">

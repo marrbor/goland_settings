@@ -1,10 +1,9 @@
 <code_scheme name="Default" version="173">
+  <GoCodeStyleSettings>
+    <option name="ADD_LEADING_SPACE_TO_COMMENTS" value="true" />
+    <option name="IMPORT_SORTING" value="GOIMPORTS" />
+  </GoCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
-  <codeStyleSettings language="go">
-    <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="false" />
-    </indentOptions>
-  </codeStyleSettings>
 </code_scheme>

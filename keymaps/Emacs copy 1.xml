@@ -6,6 +6,9 @@
   </action>
   <action id="BaseOnThisFunction" />
   <action id="BraceOrQuoteOut" />
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl g" />
+  </action>
   <action id="EditorBackSpace">
     <keyboard-shortcut first-keystroke="back_space" />
     <keyboard-shortcut first-keystroke="shift back_space" />

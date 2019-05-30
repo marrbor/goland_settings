@@ -6,6 +6,13 @@
   </action>
   <action id="BaseOnThisFunction" />
   <action id="BraceOrQuoteOut" />
+  <action id="ChangesView.AddUnversioned">
+    <keyboard-shortcut first-keystroke="ctrl alt a" />
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl a" />
+  </action>
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl g" />
+  </action>
   <action id="EditorBackSpace">
     <keyboard-shortcut first-keystroke="back_space" />
     <keyboard-shortcut first-keystroke="shift back_space" />

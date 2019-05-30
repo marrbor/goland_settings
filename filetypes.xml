@@ -2,7 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".gcloudignore" type="Fossil file" />
+      <removed_mapping pattern=".gcloudignore" type="Google Cloud file" />
       <mapping pattern="go.mod" type="PLAIN_TEXT" />
+      <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="overall_export_metadata" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
